@@ -2,7 +2,7 @@
 
 **TrackX** is a native iOS app built for door-to-door sales teams. It helps field sales reps manage addresses, track visits, and boost their performance – all from their iPhone.
 
-📱 **Available on the [App Store](https://apps.apple.com/app/trackx)**
+📱 **Available on the [App Store](https://apps.apple.com/de/app/trackx/id6757627264)**
 
 ---
 
