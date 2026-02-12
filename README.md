@@ -42,7 +42,7 @@
 
 ## 🧑‍💻 About
 
-Built by [Shahin Mir Jalili](https://www.linkedin.com/in/shahin-mir-jalili-385655226/) – iOS & Web Developer based in Höxter, Germany.
+Built by [Shahin Mir Jalili](https://www.linkedin.com/in/shahin-mir-jalili-385655226/) – iOS & Web Developer based in Holzminden, Germany.
 
 Currently being pilot-tested by a Vodafone D2D sales team.
 
